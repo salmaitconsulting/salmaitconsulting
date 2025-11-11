@@ -40,8 +40,7 @@ ________________________________________________________________________________
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: www.linkedin.com/in/salma-a-5025641a0
-- **Email**: salma.it.consulting@gmail.com
+
 
 ## 📊 GitHub Stats
 
@@ -49,7 +48,7 @@ ________________________________________________________________________________
 
 ---
 
-⭐️ *From [salma](https://github.com/yourusername)*
+
 
 <!--
 **salmaitconsulting/salmaitconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
