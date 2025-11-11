@@ -1,6 +1,6 @@
-# Hi there, I'm Salma 👋
+# Hi there 👋
 
-**Analytic Engineer | 9 Years Experience | Industry, Energy, Banking & Insurance**
+**Analytic Engineer  | Industry, Energy, Banking & Insurance**
 
 I'm a passionate Analytic Engineer with over 9 years of experience transforming raw data into actionable business insights across diverse sectors including Industry, Energy, Banking, and Insurance. I specialize in the end-to-end data lifecycle from integration to visualization. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
